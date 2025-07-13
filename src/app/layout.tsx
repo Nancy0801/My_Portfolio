@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   description: "Developed by Nancy",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{

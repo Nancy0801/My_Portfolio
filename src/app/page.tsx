@@ -5,6 +5,7 @@ import { Achievements } from './components/Achievements';
 import { ContactMe } from './components/ContactMe';
 import HomePage2 from "./components/Homepage2";
 import Experience from "./components/Experience";
+
 export default function Home() {
   return (
     <div>
