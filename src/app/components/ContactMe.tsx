@@ -3,7 +3,6 @@ import { FloatingDock } from "../components/ui/floating-dock";
 import {
     IconBrandGithub,
     IconBrandLinkedin,
-    IconBrandX,
     IconHome,
     IconBrandDiscord,
     IconBrandGmail
@@ -34,14 +33,6 @@ export function ContactMe() {
             ),
             href: "https://github.com/Nancy0801",
         },
-
-        // {
-        //     title: "Twitter",
-        //     icon: (
-        //         <IconBrandX className="h-full w-full text-neutral-500 dark:text-neutral-300" />
-        //     ),
-        //     href: "https://x.com/2703Shubham",
-        // },
 
         {
             title: "LinkedIn",
