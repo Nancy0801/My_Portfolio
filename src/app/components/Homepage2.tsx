@@ -40,7 +40,7 @@ function HomePage2() {
                 <div className="flex items-center justify-center w-2/5 z-30">
                     <img
                         src="/nancy2.png"
-                        alt="Shubham Gupta"
+                        alt="Namcy Gupta"
                         className="rounded-full w-80 h-80 object-cover shadow-2xl border-4 border-gray-500"
                     />
                 </div>

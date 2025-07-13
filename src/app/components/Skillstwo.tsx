@@ -45,12 +45,11 @@ export default function Skills() {
                 <div className="mb-5 flex space-x-4 p-4 border-2 border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 shadow-sm z-100 hover:scale-105 hover:shadow-lg transition-all duration-300 ease-in-out">
                     <img src="html.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="html" />
                     <img src="css.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="css" />
-                    <img src="javascript.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="javasc" />
+                    <img src="javascript.jpeg" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="javasc" />
                     <img src="react.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="react" />
                     <img src="node.png" className="w-14 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="node" />
                     <img src="express.png" className="w-14 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="express" />
                     <img src="next.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="next" />
-                    <img src="redux.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="redux" />
                     <img src="mongodb.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="mongo" />
                     <img src="firebase2.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="firebase" />
                 </div>
@@ -83,7 +82,7 @@ export default function Skills() {
                     <img src="git.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="git" />
                     <img src="postman2.png" className="w-15 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="postman" />
                     <img src="figma2.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="figma" />
-                    <img src="jest.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="jest" />
+                    <img src="gitHub.png" className="w-12 h-12 object-cover rounded hover:scale-110 transition-transform duration-300" alt="gitHub" />
                 </div>
                 <div className="w-[5%]" />
             </div>

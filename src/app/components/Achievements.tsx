@@ -17,23 +17,23 @@ export function Achievements() {
 }
 export const projects = [
     {
-        title: "Organised Technovate (GDSC , UIET)",
+        title: "Organizing Committee Member – Technovate (GDSC UIET)",
         description:
-            "Served as a core member of the organizing committee for a campus-wide Hackathon at GDSC UIET, contributing to planning, coordination, and smooth event execution.",
+            "Contributed as a core member of the organizing committee for Technovate, a 24-hour inter-college hackathon, playing a key role in planning, coordination, and smooth on-site execution of the event.",
     },
     {
-        title: "Organised Thinker Jugaad (Jugaad UIET)",
+        title: "Organizing Committee Member – Tkinter(Mechamaze) (Jugaad UIET)",
         description:
-            "Served as a member of the organizing committee for Jugaad Technovate, a hardware-focused Hackathon, contributing to event planning, team coordination, and on-ground execution of prototype-based challenges.",
+            "Helped organize Tkinter Jugaad (Mechamaze), a robotics-based hardware event where participants built RC cars to navigate obstacle-based puzzle tracks, contributing to setup, coordination, and event execution.",
     },
     {
         title: "Participated in SIH 2024 ",
         description:
-            "Have Been contributing to various open source projects actively from last 2 months, enhancing my skills and collaborating with developers worldwide",
+            "Participated in Smart India Hackathon 2024, organized by the Ministry of Education, where we developed innovative tech-driven solutions to address real-world problem statements at the national level.",
     },
     {
-        title: "Participated in FOSSHACK 2024",
+        title: "Participated in FOSSHACK 2025",
         description:
-            "Have been solving DSA problems consistently for the past 7-8 months, improving my problem-solving skills and algorithmic thinking.",
+            "Took part in the FOSS United Hackathon, contributing to open-source projects by collaborating with fellow developers to build meaningful, community-focused solutions.",
     },
 ];
