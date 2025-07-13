@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This portfolio showcases my project
 
 ## 🌐 Live Portfolio
 
-Check out the live version here: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+Check out the live version here: [Portfolio](https://my-portfolio-ub6m.vercel.app/))
 
 ---
 
