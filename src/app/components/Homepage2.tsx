@@ -4,7 +4,6 @@ import { Boxes } from "./ui/background-boxes";
 import { TypewriterEffectSmooth } from "./ui/typewriter-effect";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
 import { FloatingDock } from "../components/ui/floating-dock";
-import { cn } from "../lib/utils";
 import { IconBrandHackerrank, IconBrandLeetcode } from "@tabler/icons-react";
 
 const words2 = `Full-stack developer with experience in building scalable and intuitive web applications using Next.js, the MERN stack, and Java. Strong understanding of Data Structures and Algorithms, with a focus on writing clean, efficient code and solving real-world problems through thoughtful engineering.`;
