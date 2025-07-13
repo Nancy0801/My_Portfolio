@@ -31,8 +31,8 @@ function Projects() {
             </div>
             <div className="border border-gray-300 rounded-lg mt-2">
               <img
-                src="/attendance2.png"
-                alt="Attendance Tracking System"
+                src="/employee.png"
+                alt="Employee Management System"
                 className="rounded-lg w-full h-full object-cover"
               />
             </div>
